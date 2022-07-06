@@ -65,15 +65,33 @@ span{
     padding-right: 20px;
 }
 .create-box{
-    border: 1px solid #ddd;
-    border-radius: 10px;
+    border: 1px solid #dbdada;
+    border-radius: 20px;
     padding: 10px;
     width: 510px;
     margin-left: 65px;
     box-shadow: 2px 2px 2px 2px #eeecec;
 }
 .image-size{
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 5px;
   width: 500px;
+}
+.single-box{
+    border: 1px solid #dbdada;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 65px;
+    margin-right: 65px;
+    box-shadow: 3px 3px 3px 3px #e7e5e5;
+}
+footer{
+    text-align: center;
+    margin-top: 80px;
+    background-color: #030324;
+    padding: 3%;
+}
+.footer-color{
+    color: white;
 }
