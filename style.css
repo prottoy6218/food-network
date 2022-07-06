@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+}
